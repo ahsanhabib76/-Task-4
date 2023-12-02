@@ -806,6 +806,7 @@
 .btn__reset {
   width: 30px;
   /* height: 30px; */
+  margin-right: 7px;
   background: red;
   color: #fff;
 }
